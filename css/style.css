@@ -250,8 +250,9 @@ a{
 /* Mobile Device */
 @media screen and (max-width: 62.5em){
 /* mobile layout */
-.header{
-  /* padding: 0 20px; */
+.container{
+  width:100%;
+  position: relative;
 }
 /* mobile header */
 .header{
